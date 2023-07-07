@@ -119,7 +119,7 @@ main {
 
   .no_price {
     font-size: 30px;
-    color: lightgray;
+    color: white;
     font-weight: 700;
   }
   .per-month {
@@ -141,12 +141,12 @@ main {
 
   .Full-info {
     line-height: 0px;
-    color: lightgray;
+    color: white;
     font-size: 15px;
   }
 
   .Monthly_price {
-    color: lightgray;
+    color: white;
     font-size: large;
     font-weight: 700;
   }
@@ -157,7 +157,7 @@ main {
   }
 
   .info {
-    color: lightgray;
+    color: white;
     font-size: medium;
     line-height: 2em;
     font-family: 'Karla', sans-serif;
